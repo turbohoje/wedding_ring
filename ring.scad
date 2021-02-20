@@ -1,9 +1,9 @@
-$fn = 50;
+$fn = 30;
 
 diameter = 16.52; //actual
 thick    = 1.5;   //actual
 
-step = 5;
+step = 10;
 
 
 for(i=[0 : step : 179]){
